@@ -1,4 +1,4 @@
-# Solar Energy Prediction
+# Solar Energy Prediction final
 
 本專案使用 **LightGBM** 模型進行太陽能數據的訓練與預測。
 
