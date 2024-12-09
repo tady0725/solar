@@ -6,8 +6,8 @@
 
 - **final_train.csv**: 訓練數據集，包含多個特徵欄位。
 - **requirements.txt**: 專案所需的套件清單。
-- **LightGBM_solar.py**: 主程式，負責數據處理、模型訓練及評估。
-- **predict.py**: 主程式，負責數據處理、模型訓練及評估。
+- **LightGBM_solar.py**: 主程式，模型訓練。
+- **predict.py**: 主程式，預測程式。
 - **upload(no answer).csv**: 上傳 submit 檔案範本。
 - **merged_gobalred.csv**: 外部資料全天空日射量。
 - **merged_temperature.csv**: 外部資料氣溫。
